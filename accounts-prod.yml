@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "prod ap1"
+  contacts:
+    name1: "prod-name1"
+    name2: "prod-name2"
+  support:
+    - "999999"
+    - "888888"

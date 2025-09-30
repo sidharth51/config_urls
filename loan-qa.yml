@@ -1,0 +1,8 @@
+loans:
+  message: "qa ap1"
+  contacts:
+    name1: "qa-name1"
+    name2: "qa-name2"
+  support:
+    - "111111"
+    - "222222"

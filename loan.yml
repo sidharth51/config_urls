@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+loan:
+  message: "default ap1"
+  contacts:
+    name1: "zzzzzzz"
+    name2: "rrrrrrr"
+  support:
+    - "000000"
+    - "999999"
