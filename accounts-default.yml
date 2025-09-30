@@ -4,7 +4,7 @@ build:
 accounts:
   message: "default ap1 from git"
   contacts:
-    name1: "zzzzzzz"
+    name1: "{cipher}b8442f94eb47a1bc2b9f6dc2551bead0b17fd47aee39e3afe11ffb1894d6f5ef"
     name2: "rrrrrrr"
   support:
     - "000000"
