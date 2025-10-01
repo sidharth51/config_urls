@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "REFRESH TEST yyyyyyyyyyyyyyyyyyyyyyyyyy"
+  message: "REFRESH TEST yyyyy"
   contacts:
     name1: "{cipher}b8442f94eb47a1bc2b9f6dc2551bead0b17fd47aee39e3afe11ffb1894d6f5ef"
     name2: "rrrrrrr"
