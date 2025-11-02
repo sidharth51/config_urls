@@ -1,0 +1,11 @@
+server:
+  port: 8070   # optional – remove if you want local app.yml to control port
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false   # 🔧 correct property name
+    fetch-registry: false         # 🔧 correct property name
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
